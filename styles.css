@@ -45,7 +45,8 @@ body{
     text-align: center;
 }
 .container__user-profile >p{
-    margin: 20px 0;
+    margin: 10px 0;
+    color: #6c757d;
 }
 
 .container__user-profile__avataar {
